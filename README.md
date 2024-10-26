@@ -23,7 +23,14 @@
 
 ---
 ## Estudando
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Solidity](https://img.shields.io/badge/Solidity-000?style=for_the_badge&logo=solidity)](https://soliditylang.org/)
+
+<img src="https://hermes.dio.me/skills/dee83584-235d-4ef2-9964-afdf42753536.png" alt="Blockchain Logo" width="16" height="16" style="margin-right: 8px;">
+  Blockchain  / <img src="https://hermes.dio.me/skills/1eaf11a9-ad02-4912-b8d5-817cedc00562.png" alt="GitHub" width="16" height="16" style="margin-right: 8px;">
+  GitHub / <img src="https://hermes.dio.me/skills/0acd2847-14fe-460f-ae21-f4613dec2435.png" alt="Git" width="16" height="16" style="margin-right: 8px;">
+Git / <img src="https://hermes.dio.me/skills/71102cdd-e636-4188-9b15-bc104ecd1f31.png" alt="DeFi" width="16" height="16" style="margin-right: 8px;">
+DeFi / <img src="https://hermes.dio.me/skills/dd8747ee-3e22-4f11-bc17-b2e2e4fb6258.png" alt="Solidity" width="16" height="16" style="margin-right: 8px;">
+Solidity
+
 
 
 ## Projetos Destacados
