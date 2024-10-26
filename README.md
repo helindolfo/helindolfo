@@ -26,7 +26,6 @@
 
 <img src="https://hermes.dio.me/skills/dee83584-235d-4ef2-9964-afdf42753536.png" alt="Blockchain Logo" width="20" height="20"> Blockchain  
 <img src="https://hermes.dio.me/skills/1eaf11a9-ad02-4912-b8d5-817cedc00562.png" alt="GitHub Logo" width="20" height="20"> GitHub  
-<img src="https://hermes.dio.me/skills/0acd2847-14fe-460f-ae21-f4613dec2435.png" alt="Git Logo" width="20" height="20"> Git  
 <img src="https://hermes.dio.me/skills/71102cdd-e636-4188-9b15-bc104ecd1f31.png" alt="DeFi Logo" width="20" height="20"> DeFi  
 <img src="https://hermes.dio.me/skills/dd8747ee-3e22-4f11-bc17-b2e2e4fb6258.png" alt="Solidity Logo" width="20" height="20"> Solidity  
 
